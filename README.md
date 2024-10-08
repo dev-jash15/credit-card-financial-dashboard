@@ -19,12 +19,12 @@ The credit card transactional data was imported into a PostgreSQL database. This
    1. Established a connection between Power BI and the PostgreSQL database for seamless data retrieval.
    2. Configured Power BI to auto-refresh, ensuring stakeholders view up-to-date data.
 3. Data Cleaning & Preprocessing
-  1. Applied data cleaning techniques such as handling missing values, correcting data types, and standardizing fields.
-  2. Preprocessed data to aggregate weekly metrics, enabling more accurate and efficient reporting.
+   1. Applied data cleaning techniques such as handling missing values, correcting data types, and standardizing fields.
+   2. Preprocessed data to aggregate weekly metrics, enabling more accurate and efficient reporting.
 4. DAX Queries
-  1. Created DAX measures for calculating important metrics such as average spend per customer, transaction volume, and customer segmentation.
-  2. Developed calculated columns for further analysis.
+   1. Created DAX measures for calculating important metrics such as revenue, weekly revenue, and income and age group.
+   2. Developed calculated columns for further analysis.
 6. Interactive Dashboards
 Developed two interactive dashboards that provided:
-   1. Dashboard 1: Overview of credit card operations, including total transactions, total revenue, average spend per transaction, and trends over time.
-   2. Dashboard 2: Customer insights, including active customers, transaction frequency, and customer segments based on spending behavior.
+   1. Credit Card Customer Report: The Credit Card Customer Report dashboard provides an overview of total transactions, total revenue, and average spend per transaction to analyze customer spending behavior. It includes a Customer Satisfaction Ratio, showing the percentage of satisfied customers. Revenue is visualized across different age groups, job categories, and top states, identifying key contributors to overall performance. An Expenditure Type Analysis highlights spending patterns across categories like groceries and travel. Finally, the dashboard segments data by gender, showing differences in revenue contributions and spending trends between male and female customers.
+   2. Credit Card Financial Report: The Credit Card Financial Report dashboard presents key metrics such as total revenue, earnings from interest, and total transaction count, providing a clear overview of financial performance. It features interactive slicers that allow users to filter data by quarter, week, and gender segmentation for more granular analysis. Additionally, the dashboard highlights revenue by card category and includes a week-over-week revenue comparison, enabling stakeholders to track financial trends and performance over time.
