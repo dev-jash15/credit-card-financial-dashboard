@@ -40,3 +40,17 @@ This dashboard emphasizes financial performance:
    - Highlights quarterly revenue and transaction trends.
 - **Payment Methods**: Demonstrates that 64% of revenue comes from swipe transactions.
 - **Interactive Features**: Filters by gender, quarter, card category, and income group, enabling dynamic exploration of financial trends.
+#### 2. Credit Card Customer Report Dashboard
+This dashboard focuses on customer-centric insights:
+- **Key Metrics**:  Total transactions, average spend per transaction, and overall satisfaction ratio.
+- **Revenue Breakdown**:
+   - Weekly Revenue Trends: Displays revenue week by week on a line graph, segmented by male and female customers.
+   - Distribution of revenue by age group, job category, income group, and marital status.
+   - Breakdown of top-performing states contributing to revenue.
+- **Expenditure Types**: Highlights spending trends across categories like bills and entertainment.
+- **Interactive Features**: Allows filtering by gender, week, quarter, and card usage method, providing granular insights into customer behavior.
+#### 3. Client Demographics Dashboard
+This dashboard provides insights into the distribution of clients across the U.S.:
+- **Client Distribution**: Visualizes client numbers across states using an interactive map, highlighting regional trends.
+- **Demographic Insights**: Offers an overview of client demographics and their geographical spread.
+- **Interactive Features**: Includes filters for state and number of clients, enabling detailed analysis.
