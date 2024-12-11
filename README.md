@@ -30,3 +30,13 @@ The credit card transactional data was imported into a PostgreSQL database. This
    1. Created DAX measures for calculating important metrics such as revenue, weekly revenue, and income and age group.
    2. Developed calculated columns for further analysis.
 5. Design Interactive Dashboards.
+
+### Dashboards
+#### 1. Credit Card Transaction Report Dashboard
+This dashboard emphasizes financial performance:
+- Key Metrics: Total revenue, transaction count, and interest earned.
+- Revenue Breakdown:
+   - By card category, job category, education level, and expenditure types.
+   - Highlights quarterly revenue and transaction trends.
+- Payment Methods: Demonstrates that 64% of revenue comes from swipe transactions.
+- Interactive Features: Filters by gender, quarter, card category, and income group, enabling dynamic exploration of financial trends.
