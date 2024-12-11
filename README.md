@@ -5,10 +5,10 @@ The Credit Card Financial Dashboard is a comprehensive Power BI project designed
 
 ### Project Features
 1. Import Data: Data was imported into a PostgreSQL database.
-2. Power BI Connection: Connected Power BI to the PostgreSQL database for seamless data retrieval.
-3. Data Cleaning & Preprocessing: Performed data cleaning and preprocessing to ensure data quality.
+2. Data Cleaning & Preprocessing: Performed data cleaning and preprocessing to ensure data quality.
+3. Power BI Connection: Connected Power BI to the PostgreSQL database for seamless data retrieval.
 4. DAX Queries: Utilized DAX (Data Analysis Expressions) queries to add analytical capabilities.
-5. Interactive Dashboards: Created 2 interactive dashboards to visualize important metrics and trends.
+5. Interactive Dashboards: Created 3 interactive dashboards to visualize important metrics and trends.
 
 ### Tools & Technologies Used
 1. PostgreSQL - Imported data into Database
